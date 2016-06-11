@@ -1,0 +1,10 @@
+/bin/
+.settings
+/ARFF/
+/lib/
+/result/
+/test*
+.classpath
+.project
+*.log
+*.arff
